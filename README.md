@@ -24,7 +24,7 @@ A modern web-based task management application built with React and Tailwind CSS
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Krishna-Ramasubramanian1/task-tracker.git
 ```
 
 2. Navigate to the project directory
